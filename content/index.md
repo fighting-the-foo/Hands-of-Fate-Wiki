@@ -1,6 +1,5 @@
----
-title: Welcome to Quartz
----
+| publish | title                       |
+| ------- | --------------------------- |
+| true    | The Hands of Fate Wikipedia |
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a wiki for the Hands of Fate Campaign.
